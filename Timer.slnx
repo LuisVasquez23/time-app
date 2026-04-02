@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TimerApi/TimerApi.csproj" />
+  <Project Path="TimeWeb/TimeWeb.csproj" Id="25ae687f-9de0-4bf5-9320-ee1e718cd194" />
+</Solution>
